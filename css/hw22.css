@@ -1,0 +1,30 @@
+a {
+    color: cornflowerblue;
+    margin-right: 30px;
+    text-decoration: none;
+}
+a:hover{
+    color: crimson;
+}
+header {
+    text-align: center;
+    }
+footer{
+    text-align: center;
+    color: #999999;
+}
+section{
+    text-align: center;
+    < p align = "left" > Текст < / p >
+}
+.hr-shelf {
+	margin: -30px auto 10px;
+	padding: 0;
+	height: 50px;
+	border: none;
+	border-bottom: 1px solid #1f1209;
+	box-shadow: 0 20px 20px -20px #333;
+	width: 30%;
+}
+
+
